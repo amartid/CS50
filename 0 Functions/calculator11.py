@@ -2,7 +2,7 @@
 
 x = float(input("What's x? "))
 y = float(input("What's y? "))
-#making int
 
-z= round(x + y)
+z = x/y
+
 print(z)

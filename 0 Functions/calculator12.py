@@ -2,7 +2,7 @@
 
 x = float(input("What's x? "))
 y = float(input("What's y? "))
-#making int
 
-z= round(x + y)
+z = round(x/y,2)
+ #n=2 digits for round 
 print(z)
