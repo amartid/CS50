@@ -1,0 +1,1 @@
+hermioneharryronHermione& C:/Users/anje1o/miniconda3/envs/spyder-env/python.exe "d:/Desktop/CS50/6 File IO/1_lists/names5.py"
